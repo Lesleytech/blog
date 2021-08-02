@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
         {home && (
           <>
             <img
-              src='blog/images/profile.jpg'
+              src='images/profile.jpg'
               className={utilStyles.borderCircle}
               height={144}
               width={144}
