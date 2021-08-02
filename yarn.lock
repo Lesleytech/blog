@@ -552,10 +552,10 @@ cssnano-simple@2.0.0:
   dependencies:
     cssnano-preset-simple "^2.0.0"
 
-darkreader@^4.9.34:
-  version "4.9.34"
-  resolved "https://registry.yarnpkg.com/darkreader/-/darkreader-4.9.34.tgz#3f4f8c7febdee43cdb21e9bce8d92d83a959806b"
-  integrity sha512-Nq8rxXLUD/0TZ9qzvAkZDAbxRVrbPdwKPTqnx7sEk1RLTK6IyQNu2d1GdffPVEhXgK1SvSeETWDwo443tSf0fg==
+darkreader@4.9.21:
+  version "4.9.21"
+  resolved "https://registry.yarnpkg.com/darkreader/-/darkreader-4.9.21.tgz#2756d841eac435d206e4e54fc81b6a563b2efd75"
+  integrity sha512-7j0T8EoWoUXY32HsRkX/JQeSZ4MovWUH95f916CkPkLUAsPFG/ZaZBQLYU6k11aIGym8TR1S+D+bMA1VMXTTlg==
 
 data-uri-to-buffer@3.0.1:
   version "3.0.1"
