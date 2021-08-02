@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Lafen Lesley Blog
+
+This is my blog website where I write a little about me and much about Web Development
