@@ -1,5 +1,4 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import React from 'react';
 import cx from 'classnames';
 
@@ -36,9 +35,10 @@ export default function Post({ postData }) {
                 href='https://github.com/lesleytech'
                 rel='author'
                 className='d-flex align-center'
+                target='_blank'
               >
-                <Image
-                  src='/images/profile.jpg'
+                <img
+                  src='images/profile.jpg'
                   width='38px'
                   height='38px'
                   className={utilStyles.borderCircle}
