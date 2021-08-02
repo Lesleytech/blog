@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "classnames": "^2.3.1",
+    "darkreader": "^4.9.34",
     "date-fns": "^2.23.0",
     "dayjs": "^1.10.6",
     "gray-matter": "^4.0.3",
